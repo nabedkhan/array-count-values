@@ -1,4 +1,4 @@
-# array-column
+# array-count-values
 
 > array-count-values return an object of values from an array as keys and their count as value.
 
