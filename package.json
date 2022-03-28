@@ -1,0 +1,23 @@
+{
+  "name": "array-count-values",
+  "version": "1.0.0",
+  "description": "array-count-values return an object of values from an array as keys and their count as value.",
+  "main": "index.js",
+  "homepage": "https://github.com/nabedkhan/array-count-values",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nabedkhan/array-count-values.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array values",
+    "array-count-values",
+    "array count values",
+    "array count",
+    "count values"
+  ],
+  "author": "Nabed Khan (https://github.com/nabedkhan)",
+  "license": "ISC"
+}
